@@ -1,0 +1,11 @@
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\bin\Release\net462\OstMsgExport.exe.config
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\bin\Release\net462\OstMsgExport.exe
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\bin\Release\net462\OstMsgExport.pdb
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\obj\Release\net462\OstMsgExport.csproj.AssemblyReference.cache
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\obj\Release\net462\OstMsgExport.GeneratedMSBuildEditorConfig.editorconfig
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\obj\Release\net462\OstMsgExport.AssemblyInfoInputs.cache
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\obj\Release\net462\OstMsgExport.AssemblyInfo.cs
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\obj\Release\net462\OstMsgExport.csproj.CoreCompileInputs.cache
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\obj\Release\net462\OstMsgExport.sourcelink.json
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\obj\Release\net462\OstMsgExport.exe
+C:\xTekFolder\2026 Workspaces\OstRescue\OstMsgExport\obj\Release\net462\OstMsgExport.pdb
